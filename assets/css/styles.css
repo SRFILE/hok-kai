@@ -493,12 +493,8 @@ body.dark-theme {
 
 .story__img {
   position: absolute;
-  left: 8rem;
-  top: 3rem;
-  align-items: center;
-  justify-content: center;
-  height: 65vh;
-  transform: translate(-18%,.5%);
+  left: 0rem;
+  top: 0rem;
 }
 
 /*=============== PRODUCTS ===============*/
